@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Travail en Boulangerie à Paris</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f8f5f2;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #c49a6c;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin-bottom: 10px;
+      font-size: 2.2em;
+    }
+
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    .box {
+      background: white;
+      border-radius: 10px;
+      padding: 25px;
+      margin-bottom: 25px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    }
+
+    h2 {
+      color: #c49a6c;
+      margin-top: 0;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .cta {
+      background: #c49a6c;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+      border-radius: 10px;
+    }
+
+    .cta a {
+      display: inline-block;
+      margin-top: 15px;
+      background: white;
+      color: #c49a6c;
+      padding: 12px 20px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 25px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.6em;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🥐 Travaille dans une Boulangerie à Paris</h1>
+  <p>Un travail stable • Une bonne ambiance • Paris</p>
+</header>
+
+<section>
+
+  <div class="box">
+    <h2>Une opportunité simple et honnête</h2>
+    <p>Tu cherches un <strong>travail à Paris</strong> ? Tu aimes le pain, les croissants et le contact avec les clients ?</p>
+    <p>Notre boulangerie artisanale cherche des personnes motivées pour rejoindre notre équipe.</p>
+  </div>
+
+  <div class="box">
+    <h2>Qui sommes-nous ?</h2>
+    <p>Nous sommes une <strong>boulangerie traditionnelle parisienne</strong>.</p>
+    <ul>
+      <li>pain frais chaque jour</li>
+      <li>baguettes et croissants</li>
+      <li>pâtisseries simples</li>
+    </ul>
+    <p>Bonne ambiance, respect et travail en équipe.</p>
+  </div>
+
+  <div class="box">
+    <h2>Le poste</h2>
+    <p>Nous cherchons :</p>
+    <ul>
+      <li>vendeur / vendeuse</li>
+      <li>aide-boulanger / aide-boulangère</li>
+    </ul>
+    <p><strong>Missions :</strong></p>
+    <ul>
+      <li>accueillir les clients</li>
+      <li>vendre le pain et les pâtisseries</li>
+      <li>garder la boutique propre</li>
+      <li>aider l’équipe</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Horaires et conditions</h2>
+    <ul>
+      <li>35 heures par semaine</li>
+      <li>travail le matin ou l’après-midi</li>
+      <li>contrat légal en France</li>
+      <li>salaire payé à temps</li>
+    </ul>
+    <p>Pas d’expérience nécessaire. Formation sur place.</p>
+  </div>
+
+  <div class="box">
+    <h2>Profil recherché</h2>
+    <ul>
+      <li>motivé(e) et ponctuel(le)</li>
+      <li>niveau de français A2–B1</li>
+      <li>aime le travail en équipe</li>
+    </ul>
+    <p>Étudiants et étrangers bienvenus.</p>
+  </div>
+
+  <div class="cta">
+    <h2>Contact</h2>
+    <p>Tu veux travailler avec nous ?</p>
+    <p><strong>Téléphone :</strong> 06 00 00 00 00<br>
+       <strong>Email :</strong> boulangerie.paris@email.fr</p>
+    <a href="mailto:boulangerie.paris@email.fr">Nous contacter</a>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2025 Boulangerie Paris • Travail • Respect • Qualité</p>
+</footer>
+
+</body>
+</html>
+
